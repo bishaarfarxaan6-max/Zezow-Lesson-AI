@@ -30,3 +30,7 @@ Bishaar Farhan Abdi
 Making technology education accessible to everyone.
 
 More features coming soon! 🚀
+## 📚 Project Documents
+
+- [Project Documentation](Zezow-Lesson-AI-Project-Documentation.pdf)
+- [User Guide](Zezow-Lesson-AI-User-Guide.pdf)
